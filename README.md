@@ -49,8 +49,8 @@ There are two types of methods used for image processing namely, analog and digi
   * Enhancement and Display
   * Information Extraction.
   
-  ![Fundamental Steps in DIP](https://github.com/teja0508/Image_Preprocessing_Techniques/blob/master/images/DIP.png)
-   Fundamental Steps in Digital Image Processing - Rafael Gonzalez - 4th Edition [Src](https://github.com/teja0508/Image_Preprocessing_Techniques/blob/master/Digital_Image_Processing%2C_4th%20Edition-Rafael%20Gonzalez.pdf)
+  ![Fundamental Steps in DIP](https://github.com/teja0508/Image_Preprocessing_Techniques/blob/main/images/DIP.png)
+   Fundamental Steps in Digital Image Processing - Rafael Gonzalez - 4th Edition [Src](https://github.com/teja0508/Image_Preprocessing_Techniques/blob/main/Digital_Image_Processing%2C_4th%20Edition-Rafael%20Gonzalez.pdf)
 
 **Important point** to note while going through any concept is that the image is considered on a greyscale since color increases the complexity of the model. One may want to introduce an image processing tool using gray level images because of the format of gray-level images because the inherent complexity of gray-level images is lower than that of color images. In most cases. after presenting a gray-level image method, it can be extended to color images.
 
