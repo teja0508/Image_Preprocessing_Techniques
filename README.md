@@ -54,14 +54,14 @@ There are two types of methods used for image processing namely, analog and digi
 
 **Important point** to note while going through any concept is that the image is considered on a greyscale since color increases the complexity of the model. One may want to introduce an image processing tool using gray level images because of the format of gray-level images because the inherent complexity of gray-level images is lower than that of color images. In most cases. after presenting a gray-level image method, it can be extended to color images.
 
-For getting deeper insights into any of the concepts, I suggest going through [Digital Image Processing, Rafael C. Gonzalez • Richard E. Woods, 4th Edition](https://github.com/BhanuPrakashNani/Image_Processing/blob/master/Digital_Image_Processing%2C_4th%20Edition-Rafael%20Gonzalez.pdf) 
+For getting deeper insights into any of the concepts, I suggest going through [Digital Image Processing, Rafael C. Gonzalez • Richard E. Woods, 4th Edition](https://github.com/teja0508/Image_Preprocessing_Techniques/blob/main/Digital_Image_Processing%2C_4th%20Edition-Rafael%20Gonzalez.pdf) 
 
 From here on I will be referring Digital Image Processing as DIP. 
 
 **Disclaimer:** I am not the original author of the images used. They have been taken from various Image Processing sites. I have mentioned all of the referenced sites in resources. Pardon if I missed any.
 
 The following is the order I suggest to look into the concepts.
-### 1. Basics with Images - [Averaging Images](https://github.com/BhanuPrakashNani/Image_Processing/tree/master/Image%20Averaging)
+### 1. Basics with Images - [Averaging Images](https://github.com/teja0508/Image_Preprocessing_Techniques/blob/main/Image%20Averaging)
 Image averaging is a DIP technique that is used to enhance the images which are corrupted with random noise. The arithmetic mean of the intensity values for each pixel position is computed for a set of images of the same view field. The basic formula behind it is.  
 ![Image Averaging over set of N images](https://github.com/BhanuPrakashNani/Image_Processing/blob/master/images/averaging.png)  
 
