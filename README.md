@@ -3,7 +3,7 @@ Welcome aboard. With the growing technologies out in the world, we have seen how
 
 ## Contents
 
-1. [Basics with Images](https://github.com/teja0508/Image_Processing#1-basics-with-images---averaging-images)
+1. [Basics with Images](https://github.com/teja0508/Image_Preprocessing_Techniques#1-basics-with-images---averaging-images)
 2. [Successive Rotations](https://github.com/BhanuPrakashNani/Image_Processing#2-successive-rotations---code)
 3. [Interpolations](https://github.com/BhanuPrakashNani/Image_Processing#3-interpolations---code)
 4. [Interpolations-Inverse Mapping](https://github.com/BhanuPrakashNani/Image_Processing#4-interpolation-inverse-mapping---code)
